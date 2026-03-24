@@ -126,7 +126,7 @@ npm run db:check      # 데이터베이스 확인
    - Build command: `npm run build`
    - Build output directory: `.next`
 4. 환경 변수 설정
-5. 배포
+5. 배포!!!
 
 ## 라이선스
 
